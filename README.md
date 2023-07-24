@@ -1,21 +1,23 @@
 ## Pembukaan
 Assalamualaikum Wr.Wb. Perkenalkan nama saya Rama ahmad fauzi dari kelas 11 RPL 2.
 <br>
-Kali ini saya akan menjelaskan serta memberikan 2 contoh tipe tag HTML beserta fungsinya untuk memenuhi tugas yang diberikan pa Ahmad Jumadi S.kom.
+Kali ini saya akan menjelaskan serta memberikan sedikit contoh tipe tag HTML beserta fungsinya untuk memenuhi tugas yang diberikan 
 <br>
+Pak Ahmad Jumadi S.kom.
+<hr>
 Gambar dibawah adalah ekspresi saya saat diberikan tugas seperti ini
 <br>
 
 
 ![image](https://github.com/Hiro24-gif/tag-html/blob/main/m.jpeg)
 
-
+<hr>
 
 # tag-HTML
 
 Tag HTML berfungsi untuk mendefinisikan struktur dan konten dari sebuah halaman web. Setiap tag memiliki peran dan fungsi tertentu untuk mengatur tampilan dan perilaku elemen-elemen di dalam halaman web.
 <hr>
-<h1>Berikut adalah cara penggunaan tag html</h1>
+<h1>Berikut adalah  tata cara penggunaan tag html</h1>
 <br>
 
 ![image](https://github.com/Hiro24-gif/tag-html/assets/114798397/4475df25-6345-431f-aba5-7a4010a1d250)
@@ -23,7 +25,7 @@ Tag HTML berfungsi untuk mendefinisikan struktur dan konten dari sebuah halaman 
 <hr>
 
 <h1>
-tag tag html beserta fungsinya
+tag tag HTML beserta fungsinya
 </h1>
 
 ## basic tag html
@@ -234,3 +236,16 @@ Tag HTML untuk mengatur kode dan script pada halaman web.
 |5. |`<object>`	|Tag untuk membuat sebuah objek yang ditanam
 |6. |`<param>`	   |Tag untuk membuat sebuah parameter untuk objek
 
+<hr>
+<h1>Penutupan</h1>
+Sebegitu saja tag HTML yang bisa saya sebutkan.
+Dikarenakan waktu yang terbatas, Saya hanya bisa menampilkan -+ 118 Tag HTML dari total 350+ tag HTML yang tersedia.
+<br>
+<hr>
+<h3>Bilang ke tukang selot, yang gacor itu bukan situs anda, tapi niat saya.</h3>
+
+![image](https://github.com/Hiro24-gif/tag-html/blob/main/download.jpeg)
+
+<hr>
+Demikianlah tugas yang saya berikan, Saya mohon maaf jika ada salah penulisan atau salah kata 
+<h2>Wassalamualaikum Wr.Wb</h2>
