@@ -269,5 +269,5 @@ Dikarenakan waktu yang terbatas, Saya hanya bisa menampilkan -+ 118 Tag HTML dar
 ![image](https://github.com/Hiro24-gif/tag-html/blob/main/download.jpeg)
 
 <hr>
-Demikianlah tugas yang saya berikan, Saya mohon maaf jika ada salah penulisan atau salah kata 
+Demikianlah tugas yang saya selesaikan, Saya mohon maaf jika ada salah penulisan atau salah kata 
 <h2>Wassalamualaikum Wr.Wb</h2>
