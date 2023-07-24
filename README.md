@@ -1,6 +1,6 @@
 ## Pembukaan
 Assalamualaikum Wr.Wb. Perkenalkan nama saya Rama ahmad fauzi dari kelas 11 RPL 2.
-<br>
+<hr>
 Kali ini saya akan menjelaskan serta memberikan sedikit contoh tipe tag HTML beserta fungsinya untuk memenuhi tugas yang diberikan 
 <br>
 Pak Ahmad Jumadi S.kom.
@@ -27,6 +27,7 @@ Tag HTML berfungsi untuk mendefinisikan struktur dan konten dari sebuah halaman 
 <h1>
 tag tag HTML beserta fungsinya
 </h1>
+<hr>
 
 ## basic tag html
 HTML (HyperText Markup Language) adalah bahasa markup standar yang digunakan untuk membuat halaman web. Halaman web dibuat dengan menggunakan berbagai tag HTML yang menentukan struktur dan konten dari halaman tersebut. 
@@ -45,6 +46,8 @@ HTML (HyperText Markup Language) adalah bahasa markup standar yang digunakan unt
 |7.|`<br      >`       |memasukan satu baris putus                                                             |
 |8.|`<hr      >`       |membuat perubahan dasar kata didalam isi                                               |
 |9.|`<!--...-->`       |membuat komentar                                                                       |
+
+<hr>
 
 ## formating tag html
 Selain itu, HTML juga menyediakan tag-formatting untuk mengatur dan memformat teks. Tag-tag ini memungkinkan Anda menambahkan penekanan, perubahan ukuran, serta gaya tertentu pada teks.
@@ -93,6 +96,7 @@ Selain itu, HTML juga menyediakan tag-formatting untuk mengatur dan memformat te
 |38.|`<wbr>`       |     membuat kemungkinan garis-putus                                                       |
 
 
+<hr>
 
 ## Forms
 Selanjutnya, tag HTML untuk mengelola formulir atau input pengguna pada halaman web.
@@ -114,6 +118,7 @@ Selanjutnya, tag HTML untuk mengelola formulir atau input pengguna pada halaman 
 |12.|`<keygen>`	 |Tag untuk membuat key-pair generator kolom input 
 |13.|`<output>`	 |Tag untuk membuat hasil penghitunga
 
+<hr>
 
 ## Frames
 Tag HTML untuk mengatur frame atau bingkai dalam halaman web.
@@ -125,6 +130,8 @@ Tag HTML untuk mengatur frame atau bingkai dalam halaman web.
 |2. |`<frameset>`	 |Tag untuk membuat satu set bingkai (tidak disupport lagi di HTML5)
 |3. |`<noframes>`	 |Tag untuk membuat sebuah konten alternatif untuk pengguna yang tidak mendukung frame 
 |4. |`<iframe>`	 |Tag untuk membuat sebuah bingkai
+
+<hr>
 
 ## Image
 Tag HTML untuk menampilkan gambar pada halaman web.
@@ -139,6 +146,8 @@ Tag HTML untuk menampilkan gambar pada halaman web.
 |5. |`<figcaption>`|Tag untuk membuat sebuah caption untuk elemen `<figure>` (tag baru HTML5)
 |6. |`<figure>`	 |Menentukan konten mandiri (tag baru HTML5)
 
+<hr>
+
 ## Audio dan Video
 Tag HTML untuk memasukkan elemen audio dan video pada halaman web.
 <br>
@@ -150,6 +159,8 @@ Tag HTML untuk memasukkan elemen audio dan video pada halaman web.
 |3. |`<track>`	 |Tag untuk membuat trek teks untuk elemen media (<`video`> dan <`audio`>) (tag baru HTML5)
 |4. |`<video>`	 |Tag untuk membuat sebuah video atau film (tag baru HTML5)
 
+<hr>
+
 ## Links
 Tag HTML untuk membuat tautan dan navigasi pada halaman web.
 <br>
@@ -159,6 +170,8 @@ Tag HTML untuk membuat tautan dan navigasi pada halaman web.
 |1. |`<a>`	       |Tag untuk membuat hyperlink                                                                |
 |2. |`<link>`	     |Tag untuk membuat hubungan antara dokumen dan sumber daya eksternal 
 |3. |`<nav>`	     |Tag untuk membuat navigasi link (tag baru HTML5)
+
+<hr>
 
 ## List
 Tag HTML untuk membuat daftar dan konten terkait dalam halaman web.
@@ -176,7 +189,10 @@ Tag HTML untuk membuat daftar dan konten terkait dalam halaman web.
 |8. |`<menu>`	    |Tag untuk membuat deskripsi dari item dalam daftar definisi
 |9. |`<command>`	 |Tag untuk membuat sebuah tombol perintah bahwa seorang pengguna dapat meminta 
 
+<hr>
+
 ## Tables
+<br>
 Tag HTML untuk membuat tabel dan mengatur elemen-elemen tabel pada halaman web.
 <br>
 
@@ -192,6 +208,8 @@ Tag HTML untuk membuat tabel dan mengatur elemen-elemen tabel pada halaman web.
 |8. |`<tfoot>`	    |Mengelompokan isi footer dalam sebuah tabel
 |9. |`<col>`	    |Menentukan properti kolom untuk setiap kolom dalam elemen `<colgroup>`
 |10.|`<colgroup>`	 |Menentukan kelompok dari satu atau lebih kolom dalam sebuah tabel untuk diformat
+
+<hr>
 
 ## Style/Sections
 Tag HTML untuk mengatur gaya dan struktur halaman web.
@@ -212,6 +230,8 @@ Tag HTML untuk mengatur gaya dan struktur halaman web.
 |11.|`<dialog>`	 |Tag untuk membuat sebuah kotak dialog atau jendela (tag baru HTML5)
 |12.|`<summary>`	 |Tag untuk membuat sebuah judul terlihat untuk elemen `<detil>` (tag baru HTML5)
 
+<hr>
+
 ## Meta Info
 Tag HTML untuk menyediakan informasi metadata tentang halaman web.
 <br>
@@ -222,6 +242,8 @@ Tag HTML untuk menyediakan informasi metadata tentang halaman web.
 |2. |`<meta>`	    |Tag untuk membuat metadata tentang dokumen HTML
 |3. |`<base>`	    |Menentukan URL dasar / target untuk semua URL relatif dalam dokumen
 |4. |`<basefont>`  |Menentukan standar warna, ukuran, dan font untuk semua teks dalam dokumen 
+
+<hr>
 
 ## Programming
 Tag HTML untuk mengatur kode dan script pada halaman web.
